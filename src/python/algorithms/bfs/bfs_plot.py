@@ -35,11 +35,12 @@ Nós
 #FILE_NAME = "/usr/local/share/master-ipr/map1/map1.csv" # Linux-style absolute path
 #FILE_NAME = "C:\\Users\\USER_NAME\\Downloads\\master-ipr\\map1\\map1.csv" # Windows-style absolute path, note the `\\` and edit `USER_NAME`
 #FILE_NAME = "../../../../map1/map1.csv" # Linux-style relative path
-FILE_NAME = "..\\..\\..\\..\\map1\\map1.csv" # Windows-style relative path, note the `\\`
-START_X = 2
-START_Y = 2
-END_X = 7
-END_Y = 2
+FILE_NAME = "..\\..\\..\\..\\map11\\map11.csv" # Windows-style relative path, note the `\\`
+START_X = 4
+START_Y = 16
+END_X = 4
+END_Y = 10
+
 
 #Definimos coordenadas para plotear el gráfico de nodos explorados
 x_coords = []

@@ -34,11 +34,11 @@ Nós
 #FILE_NAME = "/usr/local/share/master-ipr/map1/map1.csv" # Linux-style absolute path
 #FILE_NAME = "C:\\Users\\USER_NAME\\Downloads\\master-ipr\\map1\\map1.csv" # Windows-style absolute path, note the `\\` and edit `USER_NAME`
 #FILE_NAME = "../../../../map1/map1.csv" # Linux-style relative path
-FILE_NAME = "..\\..\\..\\..\\map8\\map8.csv" # Windows-style relative path, note the `\\`
-START_X = 3
-START_Y = 3
-END_X = 11
-END_Y = 18
+FILE_NAME = "..\\..\\..\\..\\map11\\map11.csv" # Windows-style relative path, note the `\\`
+START_X = 4
+START_Y = 16
+END_X = 4
+END_Y = 10
 
 #Definimos coordenadas para plotear el gráfico de nodos explorados
 x_coords = []
@@ -181,6 +181,7 @@ while not done:
 fin = time.time()
 #Cálculo del tiempo de ejecución
 tiempo_transcurrido = fin - inicio
+
 
 # Crear una lista para almacenar los nodos a graficar
 nodes_to_plot = nodes  # Copiamos la lista de nodos
