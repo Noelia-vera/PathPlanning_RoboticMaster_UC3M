@@ -8,6 +8,7 @@
 Es necesario instalar las librerías para el contador de timpo y el ploteo de las gráficas.
 
 pip install time
+</p>
 pip install matplotlib
 
 ***
@@ -52,7 +53,7 @@ En este caso, el primer algoritmo dado por el profesor es el que más nodos reco
 NOTA: hay algunas representaciones que no se plotean todos los nodos explorados por fallo en la representación de los ejes.
 
 <p algin="center">
-    <img src="https://github.com/Noelia-vera/PathPlanning_RoboticMaster_UC3M/blob/main/results/Comparativa%20de%20tiempos.png">
+    <img src="https://github.com/Noelia-vera/PathPlanning_RoboticMaster_UC3M/blob/main/results/Comparativa%20de%20nodos%20explorados.png">
 </p>
 
 #### 3. [COMPARATIVA DE NODOS EXPLORADOS GRÁFICAMENTE]
