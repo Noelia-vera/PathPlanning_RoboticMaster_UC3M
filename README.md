@@ -45,9 +45,9 @@ En este caso, el primer algoritmo dado por el profesor es el que más nodos reco
 #### 3. [COMPARATIVA DE NODOS EXPLORADOS GRÁFICAMENTE]
 ##### MAP1 (MAIN-BFS-ASTAR)
 <p algin="center">
-    <img src="https://github.com/Noelia-vera/PathPlanning_RoboticMaster_UC3M/blob/main/results/main_map1.png">
-    <img src="https://github.com/Noelia-vera/PathPlanning_RoboticMaster_UC3M/blob/main/results/bfs_map1.png">
-    <img src="https://github.com/Noelia-vera/PathPlanning_RoboticMaster_UC3M/blob/main/results/Astar_map1.png">
+    <img src="https://github.com/Noelia-vera/PathPlanning_RoboticMaster_UC3M/blob/main/results/small/Astar_map1.png">
+    <img src="https://github.com/Noelia-vera/PathPlanning_RoboticMaster_UC3M/blob/main/results/small/Astar_map1.png">
+    <img src="https://github.com/Noelia-vera/PathPlanning_RoboticMaster_UC3M/blob/main/results/small/Astar_map1.png">
 </p>
 
 #### 4. [ARCHIVO EXCELL COMPARATIVO](https://github.com/Noelia-vera/PathPlanning_RoboticMaster_UC3M/blob/main/results/Path_planning.xlsx)
